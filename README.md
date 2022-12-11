@@ -5,12 +5,12 @@
 1). Open terminal and enter following : <br />
 Clone the project -
 ```
-  $ git clone https://github.com/priyal-babel/Document-management-system.git
+$ git clone https://github.com/priyal-babel/Document-management-system.git
 ```
 
 Install all the requirements -
 ```
-    $ npm install
+$ npm install
 ```
 
 Install ipfs globally and start a daemon:
@@ -21,5 +21,5 @@ $ jsipfs daemon
 
 Start the project-
 ```
-    $ npm start
+$ npm start
 ```
